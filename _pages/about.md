@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-layout: home
+
 ---
 
 I am a Vanier Scholar and PhD student in the Department of Plant Sciences at the University of Saskatchewan. My research focuses on the chemical ecology and integrated management of insect pests in forage seed systems, especially in northern agricultural regions.
