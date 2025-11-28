@@ -4,9 +4,11 @@ collection: teaching
 type: "Guest Lectures"
 venue: "University of Saskatchewan"
 date: 2025-01-01
+show_date: false
 location: "Saskatoon, SK"
 permalink: /teaching/guest-lectures/
 ---
+{% assign page.show_date = false %}
 
 I have been invited to give guest lectures across several undergraduate and graduate courses in the Department of Plant Sciences. These lectures cover applied entomology, greenhouse pest management, precision agriculture, and chemical ecology, allowing me to engage students across disciplines and year levels. My guest lectures emphasize clear communication, applied examples, and interactive discussion to connect course concepts with real-world agricultural challenges.
 
