@@ -8,6 +8,7 @@ permalink: /teaching/ta-roles/
 ---
 lmao
 ---
+---
 ## PLSC 450 – Applied Entomology (2024–2025)
 - Graded assignments and provided detailed feedback  
 - Assisted in syllabus development  
