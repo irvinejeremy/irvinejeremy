@@ -2,7 +2,6 @@
 title: "Chemical ecology of forage seed pests"
 collection: portfolio
 excerpt: "Identifying behaviorally active compounds to support pheromone- or attractant-based management tools."
-weight: 3
 ---
 
 My PhD work explores the chemical ecology of economically important insect pests in forage seed systems. The goal is to identify semiochemicals involved in host-location and foraging behavior.
