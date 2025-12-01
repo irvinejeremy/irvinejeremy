@@ -1,7 +1,7 @@
 ---
 title: "Complementing the Western Scientific Approach with Indigenous Knowledge"
 collection: publications
-category: article
+category: articles
 permalink: /publication/2024-01-01-indigenous-knowledge-perspective
 excerpt: 'A perspective on integrating Indigenous knowledge systems with Western science to strengthen ecological research and conservation.'
 date: 2024-01-01
