@@ -14,12 +14,12 @@ Education
 * PhD student, Department of Plant Sciences, University of Saskatchewan, Saskatoon, SK, Canada (in progress)  
   * Research focus: chemical ecology and integrated management of insect pests in forage seed systems  
   * Vanier Canada Graduate Scholar
-
 * MSc in Plant Sciences, University of Saskatchewan, Saskatoon, SK, Canada (subsequently transferred to PhD)  
   * Thesis focus: economic thresholds, spatial distribution, and sequential sampling plans for *Hypera nigrirostris* in red clover seed production  
   * Field- and lab-based applied entomology research in northern agricultural systems
 * B.Sc. in Agriculture, University of Saskatchewan, 2023
   * Thesis focus: Aster leafhopper ecology and Aster yellows epidemiology
+  * Dean's Honour Roll (all years)
 
 Work Experience
 ======
@@ -128,3 +128,112 @@ Service and leadership
 * Volunteer, Entomological Society of Canada AGM — *2022*  
 * General Volunteer, Saskatchewan Invasive Species Council — *2022*  
 * Food Centre Volunteer, University of Saskatchewan Students’ Union — *2022*  
+
+Awards and Honours
+======
+*Recipient of more than **$500,000** in competitive scholarships, awards, and research funding.*
+
+**2025**
+* Vanier Canada Graduate Scholarship  
+* Department of Plant Science 75th Anniversary Recruitment Scholarship  
+* Saskatchewan Innovation & Opportunity Scholarship  
+* Canada Graduate Scholarship (CGS-D) — *declined*  
+* Indigenous Graduate Leadership Scholarship — *declined*  
+* Justice Favel Outstanding Leadership Award in Community Involvement  
+* Plant Science Indigenous Student Award  
+* Mitacs Globalink Research Award  
+* NSERC – Michael Smith Foreign Study Supplement  
+* USask Student Travel Award  
+* Bayer Pest Management Award  
+* Ali Navabi Graduate Student Travel Award — *declined*  
+* Education Enhancement Grant  
+* University of Saskatchewan – Outstanding MSc Student  
+* Excellence in Community Service (GSA)  
+
+**2024**
+* Entomological Activities Award  
+* BASF Canada Indigenous Student Award  
+* USask Student Travel Award  
+* Gopalan Selvaraj Innovation Scholarship in Plant Sciences  
+* Norman and Kathleen Lean Postgraduate Scholarship in Agriculture  
+* Rene Vandeveld Post Graduate Award  
+* Irrigation Saskatchewan Graduate Student Award  
+* Saskatchewan Lieutenant Governor Scholarship  
+* Education Enhancement Grant  
+* Yellow Quill Holdings Inc. Scholarship Program  
+* Building Brighter Futures Scholarship  
+* Indigenous Achievement Week Award  
+
+**2023**
+* Entomological Activities Award  
+* Saskatchewan Mentorship Network Award  
+* USask Student Travel Award  
+* Education Enhancement Grant  
+* Entomological Society of America Travel Award — *declined*  
+* Graduate Travel Award  
+* Agriculture Signature Area Award  
+* CGPS 75th Recruitment Scholarship  
+* NSERC – Canada Graduate Scholarship (CGS-M)  
+* NSERC – Indigenous Scholars Award (ISA)  
+* Native Plant Society of Saskatchewan – Volunteer of the Year  
+* Dean’s Honour Roll  
+
+**2022**
+* William G. Ewart and Mary Noreen Ewart Award  
+* CIBC Student Grant  
+* Saskatchewan Mentorship Network Award  
+* Education Enhancement Grant  
+* Building Brighter Futures Scholarship  
+* NSERC – Undergraduate Student Research Award (USRA)  
+* Dean’s Honour Roll  
+
+**2021**
+* Blaine and Pat Holmund Scholarship  
+* CIC Indigenous Student Award  
+* Dean’s Honour Roll  
+
+
+Courses and Certifications
+======
+* International Chemical Ecology Course – Max Planck Institute for Chemical Ecology — *2025*  
+* USask Data Governance — *2025*  
+* Cascade Training and User Guide (USask) — *2025*  
+* Project and Time Management (MITACS) — *2025*  
+* Research and Development Management (MITACS) — *2025*  
+* High Performing Leadership and Teams (MITACS) — *2025*  
+* Responsible Conduct of Research (Life Science, Canada) — *2024*  
+* Good Clinical Practices (GCP), Canada Version 2 — *2024*  
+* TCPS 2: CORE 2022 — *2024*  
+* Biohazardous Waste Management — *2024*  
+* Supervision and Safety — *2024*  
+* Occupational Health Committee Level 2 — *2024*  
+* Occupational Health Committee Level 1 — *2024*  
+* Biosafety Training — *2024*  
+* First Aid Level C — *2024*  
+* WHMIS 2015 — *2024*  
+* Articling Agrologist (AAg) — *2023*  
+* Commercial Driver’s Licence (Class 1A) — *2019*  
+
+
+Memberships and Associations
+======
+* International Society of Chemical Ecology — *2025–Present*  
+* Canadian Society of Zoology — *2024–Present*  
+* Ecological Society of America — *2024–Present*  
+* Royal Entomological Society — *2024–Present*  
+* American Indian Science and Engineering Society — *2024–Present*  
+* Plant Science Graduate Students’ Association — *2023–Present*  
+* Canadian Society of Soil Science — *2022–Present*  
+* Canadian Society of Horticultural Sciences — *2022–Present*  
+* Native Plant Society of Saskatchewan — *2022–Present*  
+* Canadian Society of Agronomy — *2022–Present*  
+* Entomological Society of Canada — *2021–Present*  
+* Entomological Society of America — *2021–Present*  
+* Entomological Society of Saskatchewan — *2021–Present*  
+* Saskatchewan Institute of Agrologists — *2021–Present*  
+* Saskatchewan Invasive Species Council — *2022–2024*  
+* Saskatchewan Indigenous Mentorship Network (SK-IMN) — *2022–2024*  
+* Agricultural Students’ Association — *2021–2023*  
+* Prairie Oat Growers Association — *2017–2023*  
+* Wheat Growers Association — *2017–2023*  
+* Canadian Tooling & Machining Association — *2017–2020*  
