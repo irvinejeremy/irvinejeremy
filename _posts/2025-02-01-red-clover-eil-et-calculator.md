@@ -26,7 +26,6 @@ This tool is based on multi-year field trials and laboratory studies conducted i
 - Helps reduce unnecessary insecticide applications  
 - Designed for both **conventional** and **organic** red clover systems  
 
-A production version of the app will be hosted on **shinyapps.io**.
 
 [**Launch Full-Screen Calculator**](https://jeremyirvine.shinyapps.io/EIL-ET-Calc/){: .btn .btn--primary target="_blank" }
 
@@ -40,8 +39,7 @@ A production version of the app will be hosted on **shinyapps.io**.
 
 
 ## Why this tool matters
-Lesser clover leaf weevil larvae can substantially reduce seed yield.  
-Growers often face uncertainty about whether damage levels justify treatment.
+Lesser clover leaf weevil larvae can substantially reduce seed yield and growers often face uncertainty about whether damage levels justify treatment.
 
 This calculator turns field scouting information into a practical recommendation by combining:
 
@@ -65,8 +63,7 @@ Additional supporting data from sequential sampling and dispersion analyses will
 ## Features Planned for Future Updates
 - Sequential sampling plan integration  
 - Larval dispersion visualization tool  
-- Yield-loss forecasting module  
-- Mobile-friendly interface   
+- Yield-loss forecasting module     
 
 ## For Growers & Agronomists
 This tool was developed to support **evidence-based pest management** and reduce unnecessary insecticide use in red clover seed production.
