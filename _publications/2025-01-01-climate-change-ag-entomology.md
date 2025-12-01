@@ -1,6 +1,7 @@
 ---
 title: "Climate Change Impact on Agricultural Entomology"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-climate-change-ag-entomology
 excerpt: 'A synthesis of how climate change is reshaping agricultural pest dynamics and management approaches.'
 date: 2025-01-01
