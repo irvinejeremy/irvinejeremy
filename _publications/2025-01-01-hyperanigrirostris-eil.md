@@ -1,6 +1,7 @@
 ---
 title: "Economic Thresholds for Hypera nigrirostris (Coleoptera: Curculionidae) in Red Clover Seed Production from On-Farm Trials"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-hyperanigrirostris-eil
 excerpt: 'This study quantifies economic thresholds for the lesser clover leaf weevil in commercial red clover seed fields through multi-year on-farm trials. Results provide decision-support tools for growers.'
 date: 2025-01-01
