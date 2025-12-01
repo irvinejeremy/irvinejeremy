@@ -9,9 +9,9 @@ tags:
   - Hypera-nigrirostris
 ---
 
-The **Red Clover Economic Threshold Calculator** is an interactive decision-support tool designed for red clover seed growers managing the **lesser clover leaf weevil** (*Hypera nigrirostris*).  
-It allows growers to estimate:
+The **Red Clover Economic Threshold Calculator** is an interactive decision-support tool designed for red clover seed growers managing the **lesser clover leaf weevil** (*Hypera nigrirostris*).
 
+It allows growers to estimate:
 - **Economic Injury Levels (EILs)**  
 - **Economic Thresholds (ETs)**  
 - **Expected yield loss**  
@@ -21,7 +21,7 @@ This tool is based on multi-year field trials and laboratory studies conducted i
 
 ---
 
-## 🔧 What this tool does
+## What this tool does
 - Calculates **EIL** using real agronomic inputs  
 - Generates **ET** values recommended for scouting and spray timing  
 - Incorporates **dynamic cost, market price, and expected injury** parameters  
@@ -32,13 +32,12 @@ A production version of the app will be hosted on **shinyapps.io**.
 
 ---
 
-## 📱 Launch the Calculator  
-**👉 [Launch EIL/ET Calculator](#)**  
-*(beta link placeholder — to be replaced with shinyapps.io URL when deployed)*  
+## Launch the Calculator  
+**[Launch EIL/ET Calculator](#)**    
 
 ---
 
-## 💡 Why this tool matters
+## Why this tool matters
 Lesser clover leaf weevil larvae can substantially reduce seed yield.  
 Growers often face uncertainty about whether damage levels justify treatment.
 
@@ -53,7 +52,7 @@ It provides a transparent, research-supported threshold to guide decision-making
 
 ---
 
-## 📄 Supporting Research
+## Supporting Research
 This tool is based on results from:
 
 **Irvine & Prager (2025)**  
@@ -65,7 +64,7 @@ Additional supporting data from sequential sampling and dispersion analyses will
 
 ---
 
-## 🛠 Features Planned for Future Updates
+## Features Planned for Future Updates
 - Sequential sampling plan integration  
 - Larval dispersion visualization tool  
 - Yield-loss forecasting module  
@@ -73,7 +72,7 @@ Additional supporting data from sequential sampling and dispersion analyses will
 
 ---
 
-## 👩‍🌾 For Growers & Agronomists
+## For Growers & Agronomists
 This tool was developed to support **evidence-based pest management** and reduce unnecessary insecticide use in red clover seed production.
 
 If you are a grower, agronomist, or researcher interested in testing the beta version, please contact:
