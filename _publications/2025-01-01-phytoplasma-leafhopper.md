@@ -1,6 +1,7 @@
 ---
 title: "Effects of Phytoplasma Infection on Aster Leafhopper (Macrosteles quadrilineatus Forbes) (Hemiptera: Cicadellidae) Settling Behaviour and Development on Brassica napus"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-phytoplasma-leafhopper
 excerpt: 'This paper examines how phytoplasma infection alters aster leafhopper settling behaviour and development on canola.'
 date: 2025-01-01
