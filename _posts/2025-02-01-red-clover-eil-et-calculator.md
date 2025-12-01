@@ -28,7 +28,6 @@ This tool is based on multi-year field trials and laboratory studies conducted i
 
 A production version of the app will be hosted on **shinyapps.io**.
 
-## Launch the Calculator  
 **[Launch EIL/ET Calculator](#)**    
 
 ## Why this tool matters
@@ -50,7 +49,7 @@ This tool is based on results from:
 **Irvine & Prager (2025)**  
 *Economic Thresholds for Hypera nigrirostris in Red Clover Seed Production from On-Farm Trials.*  
 Journal of Economic Entomology.  
-DOI: https://doi.org/10.1093/jee/toaf290
+https://doi.org/10.1093/jee/toaf290
 
 Additional supporting data from sequential sampling and dispersion analyses will be incorporated in future updates.
 
