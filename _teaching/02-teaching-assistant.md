@@ -42,7 +42,8 @@ I have been a teaching assistant for seven undergraduate courses ranging from fi
 ### AGRC 111 – Introduction to Plant and Soil Sciences (2023, 2025)
 - Supported first-year students in foundational plant and soil science  
 - Provided individualized lab and lecture support  
-- Assisted with midterm invigilation in 2025 
+- Assisted with midterm invigilation in 2025
+  
 ### AGRC 445 – Experiential Learning in the Workplace (2023)
 - Evaluated SOP documents  
 - Graded audio/visual communication projects  
