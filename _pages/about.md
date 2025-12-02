@@ -19,6 +19,6 @@ My work integrates field biology, chemical ecology, and applied entomology to su
 - Undergraduate research experiences, teaching, and building inclusive scientific communities  
 
 ### About this site  
-This website highlights my research, publications, teaching experience, outreach activities, and professional service. It is built using the AcademicPages template and hosted through GitHub Pages.
+This website highlights my research, publications, teaching experience, outreach activities, and professional service. It is built and hosted through GitHub Pages.
 
 If you'd like to connect, you can find my social links in the sidebar.
