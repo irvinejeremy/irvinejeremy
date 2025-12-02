@@ -11,9 +11,6 @@ redirect_from:
 
 [**Download PDF Version**]({{ base_path }}/files/irvine-jeremy-cv.pdf){: .btn .btn--primary}
 
-Education
-======
-
 
 Education
 ======
