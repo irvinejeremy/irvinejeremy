@@ -17,18 +17,14 @@ The **Red Clover Economic Threshold Calculator** is an interactive decision-supp
 It allows growers to estimate:
 - **Economic Injury Levels (EILs)**  
 - **Economic Thresholds (ETs)**  
-- **Expected yield loss**  
-- **Cost-effective spray decisions based on field conditions**  
 
 This tool is based on multi-year field trials and laboratory studies conducted in Saskatchewan, and is tailored specifically for Western Canadian red clover seed systems.
 
 ## What this tool does
-- Calculates **EIL** using real agronomic inputs  
-- Generates **ET** values recommended for scouting and spray timing  
+- Calculates economic injury level using real agronomic inputs  
+- Generates economic threshold values recommended for scouting and spray timing  
 - Incorporates **dynamic cost, market price, and expected injury** parameters  
 - Helps reduce unnecessary insecticide applications  
-- Designed for both **conventional** and **organic** red clover systems  
-
 
 [**Launch Full-Screen Calculator**](https://jeremyirvine.shinyapps.io/EIL-ET-Calc/){: .btn .btn--primary target="_blank" }
 
@@ -53,13 +49,10 @@ This calculator turns field scouting information into a practical recommendation
 
 It provides a transparent, research-supported threshold to guide decision-making.
 
-## Supporting Research
 This tool is based on results from:
 
 **Irvine & Prager (2025)**  
-*Economic Thresholds for Hypera nigrirostris in Red Clover Seed Production from On-Farm Trials.*  
-Journal of Economic Entomology.  
-https://doi.org/10.1093/jee/toaf290
+*Economic Thresholds for Hypera nigrirostris in Red Clover Seed Production from On-Farm Trials.* Journal of Economic Entomology. https://doi.org/10.1093/jee/toaf290
 
 Additional supporting data from sequential sampling and dispersion analyses will be incorporated in future updates.
 
@@ -71,9 +64,12 @@ Additional supporting data from sequential sampling and dispersion analyses will
 ## For Growers & Agronomists
 This tool was developed to support **evidence-based pest management** and reduce unnecessary insecticide use in red clover seed production.
 
-If you are a grower, agronomist, or researcher interested in testing the beta version, please contact:
+If you have any questions, please contact:
 
 **Jeremy R. Irvine**  
-Department of Plant Sciences, University of Saskatchewan  
+Department of Plant Sciences, University of Saskatchewan
+@JeremyIrvine
+jeremy.irvine@usask.ca
+jeremy@entomologist.ca
 
 ---
