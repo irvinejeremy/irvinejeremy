@@ -1,13 +1,16 @@
 ---
 title: "Red Clover Grower Tool (Beta)"
 date: 2025-02-01
-permalink: /posts/2025/02/red-clover-eil-et-calculator/
+permalink: /tools/red-clover/
+redirect_from:
+  - /posts/2025/02/red-clover-eil-et-calculator/
 tags:
   - extension
   - grower-tools
   - economic-thresholds
   - Hypera-nigrirostris
 ---
+
 
 The **Red Clover Economic Threshold Calculator** is an interactive decision-support tool designed for red clover seed growers managing the **lesser clover leaf weevil** (*Hypera nigrirostris*).
 
