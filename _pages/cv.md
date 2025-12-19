@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [**Download PDF Version**]({{ base_path }}/files/irvine-jeremy-cv.pdf){: .btn .btn--primary}
-
+_Last updated: December 2025_
 
 Education
 ======
@@ -27,7 +27,7 @@ Education
 Work Experience
 ======
 * **Research Assistant**, Prager Lab, University of Saskatchewan  
-  *2021–2026*  
+  *2021–2023, 2026–Present*  
   * Conducted field surveys in agroecosystems and native grasslands.  
   * Identified insect specimens to the lowest taxonomic rank possible.  
   * Performed Good Laboratory Practices (GLP) and Good Microbiological Techniques (GMT).  
@@ -38,7 +38,7 @@ Work Experience
   * Conducted field surveys for pathogens, weeds, and insect pests.  
   * Designed and evaluated annual strip trials to compare agronomic management practices.  
 
-* **Production Machinist**, Bourgault Industries Ltd.  
+* **Production Operator/Machinist**, Bourgault Industries Ltd.  
   *2017–2020*  
   * Manufactured precision agricultural machinery components.  
   * Conducted safety audits of production facilities to support workplace compliance.  
@@ -48,19 +48,32 @@ Work Experience
 Skills
 ======
 * **Entomological & Agronomic Research**
-  * Field sampling (sweep netting, quadrats, sequential sampling)  
-  * Insect identification and developmental assays  
-  * Behavioural bioassays (two-choice, no-choice, Y-maze)  
+  * Field sampling (sweep netting, quadrats, sequential sampling)
+  * Insect identification and developmental assays
+  * Behavioural bioassays (two-choice, no-choice, Y-maze)
+
+* **Chemical Ecology & Behavioural Analysis**
+  * Collection and analysis of insect- and plant-derived volatile compounds
+  * Coupled gas chromatography–electroantennographic detection (GC-EAD) to identify biologically active volatiles
+  * Volatile identification using gas chromatography–mass spectrometry (GC-MS)
+  * Behavioural assays using 2- and 4-arm olfactometers and arena-based choice assays
+  * Automated insect tracking and behavioural quantification using EthoVision software
+  * Event-based behavioural coding and choice analysis using BORIS (Behavioural Observation Research Interactive Software)
+  * Integration of chemical, behavioural, and ecological data to infer functional relevance
 
 * **Data Analysis & Statistical Modelling**
-  * R programming (tidyverse, mixed models, Bayesian analysis)  
-  * Experimental design, threshold estimation (EIL/ET), dispersion analysis  
-  * Data visualization and reproducible workflows  
+  * R programming for statistical analysis and visualization (tidyverse, mixed models, Bayesian approaches)
+  * Experimental design, yield–loss modelling, economic injury levels and thresholds (EIL/ET)
+  * Spatial and dispersion analysis; reproducible research workflows
 
 * **Technical & Computational Skills**
-  * Website development using Jekyll, GitHub Pages, and version control  
-  * Git/GitHub workflow (branching, pull requests, CI automation)  
-  * HPC usage (SLURM job scheduling, BLAST pipelines)  
+  * RNA-seq and transcriptomic analysis in non-model insects (QC, trimming, *de novo* assembly, annotation)
+  * Bioinformatics pipelines for gene family discovery and comparative analysis (BLAST-based workflows)
+  * Phylogenetic analysis of chemosensory gene families (alignment, curation, tree inference)
+  * Linux-based high-performance computing workflows (SLURM, large-scale sequence analysis)
+  * R and shell scripting for data processing and pipeline automation
+  * Version control and research infrastructure (Git/GitHub, Jekyll, GitHub Pages)
+
 
 Publications
 ======
@@ -134,7 +147,7 @@ Service and leadership
 
 Awards and Honours
 ======
-*Recipient of more than **$500,000** in competitive scholarships, awards, and research funding.*
+*Offered more than **$550,000** in competitive scholarships, awards, and research funding.*
 
 **2025**
 * Vanier Canada Graduate Scholarship  
@@ -142,6 +155,7 @@ Awards and Honours
 * Saskatchewan Innovation & Opportunity Scholarship  
 * Canada Graduate Scholarship (CGS-D) — *declined*  
 * Indigenous Graduate Leadership Scholarship — *declined*  
+* Robert Ernest Guy Memorial Scholarship
 * Justice Favel Outstanding Leadership Award in Community Involvement  
 * Plant Science Indigenous Student Award  
 * Mitacs Globalink Research Award  
@@ -155,7 +169,7 @@ Awards and Honours
 
 **2024**
 * Entomological Activities Award  
-* BASF Canada Indigenous Student Award  
+* BASF Canada Student Award  
 * USask Student Travel Award  
 * Gopalan Selvaraj Innovation Scholarship in Plant Sciences  
 * Norman and Kathleen Lean Postgraduate Scholarship in Agriculture  
